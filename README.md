@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/mhelmih/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mhelmih/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/mhelmih/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
