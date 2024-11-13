@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/mhelmih/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mhelmih/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/mhelmih/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mhelmih/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
