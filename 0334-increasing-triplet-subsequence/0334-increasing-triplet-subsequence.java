@@ -5,21 +5,13 @@ class Solution {
             return false;
         }
 
-        int min1 = nums[0], min2 = Integer.MAX_VALUE, candMin1 = nums[0], candMin2 = Integer.MAX_VALUE;
+        int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
         for (int i = 0; i < n; i++) {
-            if (nums[i] < candMin1 && nums[i] < candMin2) {
-                candMin1 = nums[i];
-                candMin2 = Integer.MAX_VALUE;
-            } else if (nums[i] < candMin2 && nums[i] > candMin1) {
-                candMin2 = nums[i];
-            }
-
-            if (candMin1 <= min1 && candMin2 <= min2) {
-                min1 = candMin1;
-                min2 = candMin2;
-            }
-
-            if (min1 < min2 && min2 < nums[i]) {
+            if (nums[i] <= min1) {
+                min1 = nums[i];
+            } else if (nums[i] <= min2) {
+                min2 = nums[i];
+            } else {
                 return true;
             }
         }
