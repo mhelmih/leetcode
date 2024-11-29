@@ -1,30 +1,26 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> temp = new HashMap<Integer, Integer>();
+        Set<Integer> set1 = new HashSet<Integer>();
+        Set<Integer> set2 = new HashSet<Integer>();
         List<List<Integer>> res = new ArrayList<>();
-        res.add(new ArrayList<Integer>());
-        res.add(new ArrayList<Integer>());
+        res.add(new ArrayList<>());
+        res.add(new ArrayList<>());
 
-        for (int i = 0; i < nums1.length; i++) {
-            if (!temp.containsKey(nums1[i])) {
-                temp.put(nums1[i], 1);
-            }
+        for (int num : nums1) {
+            set1.add(num);
+        }
+        for (int num : nums2) {
+            set2.add(num);
         }
 
-        for (int i = 0; i < nums2.length; i++) {
-            if (!temp.containsKey(nums2[i])) {
-                temp.put(nums2[i], -1);
-            } else if (temp.get(nums2[i]) == 1) {
-                temp.put(nums2[i], 0);
+        for (int num : set1) {
+            if (!set2.contains(num)) {
+                res.get(0).add(num);
             }
         }
-
-        List<Integer> keys = new ArrayList<Integer>(temp.keySet());
-        for (Integer key : keys) {
-            if (temp.get(key) == 1) {
-                res.get(0).add(key);
-            } else if (temp.get(key) == -1) {
-                res.get(1).add(key);
+        for (int num : set2) {
+            if (!set1.contains(num)) {
+                res.get(1).add(num);
             }
         }
 
