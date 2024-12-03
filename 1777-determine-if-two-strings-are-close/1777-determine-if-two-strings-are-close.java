@@ -4,29 +4,29 @@ class Solution {
             return false;
         }
 
-        char[] w1 = word1.toCharArray();
-        char[] w2 = word2.toCharArray();
-        Set<Character> sw1 = new HashSet<>(); 
-        Set<Character> sw2 = new HashSet<>();
         int[] cw1 = new int[26];
         int[] cw2 = new int[26];
 
-        for (char c : w1) {
-            sw1.add(c);
+        for (char c : word1.toCharArray()) {
             cw1[c - 'a'] += 1;
         }
-        for (char c : w2) {
-            sw2.add(c);
+        for (char c : word2.toCharArray()) {
             cw2[c - 'a'] += 1;
+        }
+
+        for (int i = 0; i < 26; i++) {
+            if ((cw1[i] != 0 && cw2[i] == 0) || (cw1[i] == 0 && cw2[i] != 0)) {
+                return false;
+            }
         }
         
         Arrays.sort(cw1);
         Arrays.sort(cw2);
 
-        if (sw1.equals(sw2) && Arrays.equals(cw1, cw2)) {
-            return true;
+        if (!Arrays.equals(cw1, cw2)) {
+            return false;
         }
 
-        return false;
+        return true;
     }
 }
