@@ -23,8 +23,10 @@ class Solution {
         Arrays.sort(cw1);
         Arrays.sort(cw2);
 
-        if (!Arrays.equals(cw1, cw2)) {
-            return false;
+        for (int i = 0; i < 26; i++) {
+            if (cw1[i] != cw2[i]) {
+                return false;
+            }
         }
 
         return true;
