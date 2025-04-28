@@ -112,4 +112,12 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/mhelmih/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mhelmih/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mhelmih/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
