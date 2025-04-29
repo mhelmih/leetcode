@@ -56,6 +56,7 @@
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mhelmih/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mhelmih/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mhelmih/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
