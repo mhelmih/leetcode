@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mhelmih/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -61,6 +62,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mhelmih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mhelmih/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mhelmih/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/mhelmih/leetcode/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mhelmih/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/mhelmih/leetcode/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
