@@ -22,6 +22,7 @@
 | [0978-valid-mountain-array](https://github.com/mhelmih/leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/mhelmih/leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/mhelmih/leetcode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mhelmih/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/mhelmih/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -126,6 +127,7 @@
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/mhelmih/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/mhelmih/leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mhelmih/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mhelmih/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mhelmih/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mhelmih/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mhelmih/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
