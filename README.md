@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/mhelmih/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mhelmih/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mhelmih/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mhelmih/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -43,6 +44,7 @@
 | [0011-container-with-most-water](https://github.com/mhelmih/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mhelmih/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mhelmih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mhelmih/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mhelmih/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -113,6 +115,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mhelmih/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mhelmih/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
