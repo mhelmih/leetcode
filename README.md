@@ -18,6 +18,7 @@
 | [0605-can-place-flowers](https://github.com/mhelmih/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mhelmih/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mhelmih/leetcode/tree/master/0724-find-pivot-index) |
+| [0941-sort-array-by-parity](https://github.com/mhelmih/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/mhelmih/leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -55,6 +56,7 @@
 | [0392-is-subsequence](https://github.com/mhelmih/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mhelmih/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/mhelmih/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/mhelmih/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mhelmih/leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mhelmih/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
+| [0941-sort-array-by-parity](https://github.com/mhelmih/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mhelmih/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mhelmih/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
