@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/mhelmih/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mhelmih/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mhelmih/leetcode/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/mhelmih/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mhelmih/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -47,6 +48,7 @@
 | [0392-is-subsequence](https://github.com/mhelmih/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mhelmih/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/mhelmih/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mhelmih/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/mhelmih/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -109,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mhelmih/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mhelmih/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
