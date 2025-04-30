@@ -20,6 +20,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/mhelmih/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mhelmih/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mhelmih/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mhelmih/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mhelmih/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1791-richest-customer-wealth](https://github.com/mhelmih/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -59,6 +60,7 @@
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mhelmih/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mhelmih/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mhelmih/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
