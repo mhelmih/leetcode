@@ -19,6 +19,7 @@
 | [0724-find-pivot-index](https://github.com/mhelmih/leetcode/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1168-duplicate-zeros](https://github.com/mhelmih/leetcode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/mhelmih/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mhelmih/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mhelmih/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@
 | [0443-string-compression](https://github.com/mhelmih/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/mhelmih/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/mhelmih/leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mhelmih/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/mhelmih/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
