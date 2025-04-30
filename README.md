@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mhelmih/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mhelmih/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/mhelmih/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mhelmih/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/mhelmih/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mhelmih/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/mhelmih/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/mhelmih/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/mhelmih/leetcode/tree/master/1137-height-checker) |
