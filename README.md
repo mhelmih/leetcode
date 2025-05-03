@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/mhelmih/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0206-reverse-linked-list](https://github.com/mhelmih/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mhelmih/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mhelmih/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/mhelmih/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/mhelmih/leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mhelmih/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mhelmih/leetcode/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/mhelmih/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
