@@ -2,6 +2,7 @@ class MyLinkedList {
     public class Node {
         int val;
         Node next;
+        Node prev;
 
         public Node(int val) {
             this.val = val;
@@ -17,7 +18,7 @@ class MyLinkedList {
         this.tail = null;
         this.length = 0;
     }
-    
+
     public int get(int index) {
         if (index < 0 || index >= this.length) {
             return -1;
@@ -31,28 +32,32 @@ class MyLinkedList {
         }
         return temp.val;
     }
-    
+
     public void addAtHead(int val) {
         Node newHead = new Node(val);
         newHead.next = this.head;
+        if (this.head != null) {
+            this.head.prev = newHead;
+        }
         this.head = newHead;
         this.length++;
         if (this.tail == null) {
             this.tail = this.head;
         }
     }
-    
+
     public void addAtTail(int val) {
         Node newTail = new Node(val);
         if (this.tail == null) {
             this.addAtHead(val);
         } else {
             tail.next = newTail;
+            newTail.prev = tail;
             this.tail = newTail;
             this.length++;
         }
     }
-    
+
     public void addAtIndex(int index, int val) {
         if (index < 0 || index > this.length) {
             return;
@@ -64,40 +69,42 @@ class MyLinkedList {
         } else {
             Node temp = new Node(val);
             Node ptr = this.head;
-            Node ptrPrev = null;
             for (int i = 0; i < index; i++) {
-                ptrPrev = ptr;
                 ptr = ptr.next;
             }
             temp.next = ptr;
+            temp.prev = ptr.prev;
+            Node ptrPrev = ptr.prev;
             ptrPrev.next = temp;
+            ptr.prev = temp;
             this.length++;
         }
     }
-    
+
     public void deleteAtIndex(int index) {
         if (index < 0 || index >= this.length) {
             return;
         }
         if (index == 0) {
             this.head = this.head.next;
+            if (this.head != null) {
+                this.head.prev = null;
+            }
             length--;
         } else if (index == this.length - 1) {
-            Node beforeTail = this.head;
-            for (int i = 0; i < this.length - 2; i++) {
-                beforeTail = beforeTail.next;
-            }
+            Node beforeTail = this.tail.prev;
             beforeTail.next = null;
             this.tail = beforeTail;
             length--;
         } else {
             Node ptr = this.head;
-            Node ptrPrev = null;
             for (int i = 0; i < index; i++) {
-                ptrPrev = ptr;
                 ptr = ptr.next;
             }
-            ptrPrev.next = ptr.next;
+            Node ptrPrev = ptr.prev;
+            Node ptrNext = ptr.next;
+            ptrPrev.next = ptrNext;
+            ptrNext.prev = ptrPrev;
             length--;
         }
     }
