@@ -17,6 +17,7 @@
 | [0414-third-maximum-number](https://github.com/mhelmih/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mhelmih/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mhelmih/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/mhelmih/leetcode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/mhelmih/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mhelmih/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mhelmih/leetcode/tree/master/0724-find-pivot-index) |
@@ -190,11 +191,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/mhelmih/leetcode/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/mhelmih/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/mhelmih/leetcode/tree/master/0498-diagonal-traverse) |
 ## Bit Manipulation
 |  |
 | ------- |
