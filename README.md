@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mhelmih/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mhelmih/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/mhelmih/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mhelmih/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mhelmih/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/mhelmih/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mhelmih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mhelmih/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -96,6 +98,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mhelmih/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/mhelmih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mhelmih/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mhelmih/leetcode/tree/master/0383-ransom-note) |
@@ -141,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mhelmih/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/mhelmih/leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/mhelmih/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
