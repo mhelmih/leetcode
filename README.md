@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/mhelmih/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/mhelmih/leetcode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mhelmih/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mhelmih/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mhelmih/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/mhelmih/leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mhelmih/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
