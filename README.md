@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mhelmih/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/mhelmih/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/mhelmih/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mhelmih/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mhelmih/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/mhelmih/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mhelmih/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mhelmih/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mhelmih/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mhelmih/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mhelmih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mhelmih/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mhelmih/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mhelmih/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
