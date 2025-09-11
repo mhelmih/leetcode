@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/mhelmih/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mhelmih/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/mhelmih/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mhelmih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mhelmih/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mhelmih/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mhelmih/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mhelmih/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mhelmih/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/mhelmih/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/mhelmih/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/mhelmih/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/mhelmih/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/mhelmih/leetcode/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/mhelmih/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
