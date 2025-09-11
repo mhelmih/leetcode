@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/mhelmih/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mhelmih/leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/mhelmih/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/mhelmih/leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/mhelmih/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/mhelmih/leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhelmih/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mhelmih/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mhelmih/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/mhelmih/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/mhelmih/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mhelmih/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
