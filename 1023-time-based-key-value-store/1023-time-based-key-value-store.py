@@ -6,25 +6,20 @@ class TimeMap:
     def set(self, key: str, value: str, timestamp: int) -> None:
         if key not in self.map:
             self.map[key] = []
-
-        temp = self.map[key]
-        temp.append([value, timestamp])
-        self.map.update({key: temp}) 
+        self.map[key].append([value, timestamp]) 
 
     def get(self, key: str, timestamp: int) -> str:
         ans = ""
-        if key not in self.map:
-            return ans
+        values = self.map.get(key, [])
 
         low = 0
-        high = len(self.map[key]) - 1
+        high = len(values) - 1
 
         while low <= high:
-            mid = low + (high - low) // 2
-            curr_timestamp = self.map[key][mid][1]
-            if curr_timestamp <= timestamp:
+            mid = (low + high) // 2
+            if values[mid][1] <= timestamp:
+                ans = values[mid][0]
                 low = mid + 1
-                ans = self.map[key][mid][0]
             else:
                 high = mid - 1
 
