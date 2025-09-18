@@ -151,15 +151,18 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/mhelmih/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 ## Prefix Sum
 |  |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mhelmih/leetcode/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
