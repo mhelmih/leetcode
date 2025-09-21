@@ -151,12 +151,14 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -164,6 +166,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -266,6 +269,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mhelmih/leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mhelmih/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
