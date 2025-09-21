@@ -10,20 +10,18 @@ class Solution:
             return []
 
         ans = []
-        queue = [[root]]
-        for level in queue:
-            temp_lv = []
+        queue = collections.deque()
+        queue.append(root)
+        while queue:
             temp_ans = []
-            for node in level:
-                temp_ans.append(node.val)
-                if node.left:
-                    temp_lv.append(node.left)
-                if node.right:
-                    temp_lv.append(node.right)
+            for _ in range(len(queue)):
+                curr = queue.popleft()
+                temp_ans.append(curr.val)
+                if curr.left:
+                    queue.append(curr.left)
+                if curr.right:
+                    queue.append(curr.right)
             
-            if temp_lv:
-                queue.append(temp_lv)
-            if temp_ans:
-                ans.append(temp_ans)
+            ans.append(temp_ans)
         
         return ans  
