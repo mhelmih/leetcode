@@ -12,13 +12,19 @@ class Solution:
         if not root:
             return []
         
+        return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
+
+    def inorderTraversal2(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+        
         self.inorderTraversal(root.left)
         self.ans.append(root.val)
         self.inorderTraversal(root.right)
 
         return self.ans
     
-    def inorderTraversal2(self, root: Optional[TreeNode]) -> List[int]:
+    def inorderTraversal3(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
             return []
 
