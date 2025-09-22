@@ -22,8 +22,6 @@ class Solution:
 
         if ptr3:
             self.swapPairs(ptr3)
-        else:
-            self.swapPairs
 
         if ptr2:
             return ptr2
