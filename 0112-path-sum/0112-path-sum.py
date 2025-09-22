@@ -16,9 +16,7 @@ class Solution:
         val_stack = [root.val]
         while stack:
             curr = stack.pop()
-            # print("curr", curr.val)
             self.temp_sum += curr.val
-            # print("temp_sum", self.temp_sum)
             if self.temp_sum == targetSum and not curr.left and not curr.right:
                 return True
             else:
@@ -32,3 +30,11 @@ class Solution:
                     stack.append(curr.left)
 
         return False
+
+    def hasPathSum2(self, root: Optional[TreeNode], targetSum: int) -> bool:
+        if not root:
+            return False
+        if not root.left and not root.right:
+            return root.val == targetSum
+        
+        return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
