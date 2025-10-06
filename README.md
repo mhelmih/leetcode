@@ -163,6 +163,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mhelmih/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mhelmih/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mhelmih/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -332,4 +334,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mhelmih/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/mhelmih/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mhelmih/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
