@@ -123,6 +123,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mhelmih/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/mhelmih/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mhelmih/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/mhelmih/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/mhelmih/leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mhelmih/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mhelmih/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/mhelmih/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mhelmih/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mhelmih/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/mhelmih/leetcode/tree/master/0392-is-subsequence) |
@@ -346,5 +348,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mhelmih/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mhelmih/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
